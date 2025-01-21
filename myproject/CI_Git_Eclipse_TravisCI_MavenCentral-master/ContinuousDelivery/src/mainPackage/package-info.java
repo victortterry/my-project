@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author theWiteRabbit
- *
- */
-package mainPackage;
